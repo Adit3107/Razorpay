@@ -36,7 +36,7 @@ A fully responsive **Razorpay** clone built using **Tailwind CSS**, featuring a 
 
 3. Open the project in your browser at http://localhost:3000.
 
-##✨ Customization
+## ✨ Customization
 Feel free to customize the project to meet your needs:
 
 Modify components in src/ to change the layout or functionality.
@@ -45,13 +45,13 @@ Update the Tailwind CSS configuration (tailwind.config.js) to add or modify styl
 Understand how to use Tailwind CSS to create responsive layouts.
 Practice replicating modern UI designs with reusable components.
 Learn to set up and structure a front-end project efficiently.
-##⚠️ Disclaimer
+## ⚠️ Disclaimer
 This project is a clone created for educational purposes only. It is not affiliated with or endorsed by Razorpay.
 
-##🌟 Contributing
+## 🌟 Contributing
 Contributions are welcome! If you'd like to improve the project, feel free to fork the repository and submit a pull request.
 
-##📄 License
+## 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
    
    
